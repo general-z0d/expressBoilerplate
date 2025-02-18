@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "name": "ims-backend",
-      "script": "src/index.js",
+      "name": "fusioWallet-backend",
+      "script": "src/server/index.js",
       "instances": 1,
       "autorestart": true,
       "watch": false,
